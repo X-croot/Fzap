@@ -4,7 +4,8 @@ Fzap is a lightweight and extensible FTP brute force testing tool designed for e
 
 ---
 
-<img width="1092" height="788" alt="resim" src="https://github.com/user-attachments/assets/ca962d56-1e8c-4b9d-842b-ef21c2e8b6d8" />
+<img width="1088" height="788" alt="resim" src="https://github.com/user-attachments/assets/fd3853c8-ec3f-4978-8e6e-0c376f2629f3" />
+
 
 ## 🛠️ Installation & Usage
 
